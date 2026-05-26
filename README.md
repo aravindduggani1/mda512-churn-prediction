@@ -27,7 +27,7 @@ Spain, and Germany.
 ## How to Run
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Open `notebooks/churn_analysis.ipynb` in Jupyter
+3. Open `notebooks/mda512-edited.ipynb` in Jupyter
 
 ## Folder Structure
 - `data/` — raw dataset
